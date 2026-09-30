@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="320" viewBox="0 0 480 320" fill="none">
+  <defs>
+    <symbol id="ornament" viewBox="0 0 100 100">
+      <path d="M50 78V58" stroke="#5F8FB8" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.10" vector-effect="non-scaling-stroke"/>
+      <path d="M50 58C50 46 44 38 34 34C23 30 12 36 10 47C8 57 15 66 25 66C33 66 38 61 38 54C38 48 34 44 29 44C25 44 22 47 22 51C22 54 24 57 27 58" stroke="#5F8FB8" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.10" vector-effect="non-scaling-stroke"/>
+      <path d="M50 58C50 46 56 38 66 34C77 30 88 36 90 47C92 57 85 66 75 66C67 66 62 61 62 54C62 48 66 44 71 44C75 44 78 47 78 51C78 54 76 57 73 58" stroke="#5F8FB8" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.10" vector-effect="non-scaling-stroke"/>
+      <path d="M40 79C42 84 45 88 50 90C55 88 58 84 60 79" stroke="#5F8FB8" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.10" vector-effect="non-scaling-stroke"/>
+    </symbol>
+  </defs>
+
+  <g transform="translate(22 18)"><use href="#ornament" width="74" height="74"/></g>
+  <g transform="translate(190 12) rotate(90 37 37)"><use href="#ornament" width="74" height="74"/></g>
+  <g transform="translate(358 18) rotate(180 37 37)"><use href="#ornament" width="74" height="74"/></g>
+
+  <g transform="translate(108 122) rotate(180 37 37)"><use href="#ornament" width="74" height="74"/></g>
+  <g transform="translate(276 122) rotate(270 37 37)"><use href="#ornament" width="74" height="74"/></g>
+  <g transform="translate(444 122) rotate(90 37 37)"><use href="#ornament" width="74" height="74"/></g>
+
+  <g transform="translate(22 226) rotate(90 37 37)"><use href="#ornament" width="74" height="74"/></g>
+  <g transform="translate(190 232)"><use href="#ornament" width="74" height="74"/></g>
+  <g transform="translate(358 226) rotate(270 37 37)"><use href="#ornament" width="74" height="74"/></g>
+</svg>
